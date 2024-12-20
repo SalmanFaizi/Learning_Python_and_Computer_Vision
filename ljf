@@ -1,0 +1,20 @@
+[33me2dd723[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m)[m HEAD@{0}: checkout: moving from master to main
+[33m9bcf49f[m[33m ([m[1;31morigin/master[m[33m, [m[1;32mmaster[m[33m)[m HEAD@{1}: checkout: moving from main to master
+[33me2dd723[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m)[m HEAD@{2}: checkout: moving from main to main
+[33me2dd723[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m)[m HEAD@{3}: reset: moving to e2dd723
+[33me2dd723[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m)[m HEAD@{4}: checkout: moving from master to main
+[33m9bcf49f[m[33m ([m[1;31morigin/master[m[33m, [m[1;32mmaster[m[33m)[m HEAD@{5}: commit: commiting
+[33m05ffa29[m HEAD@{6}: checkout: moving from main to master
+[33me2dd723[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m)[m HEAD@{7}: checkout: moving from main to main
+[33me2dd723[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m)[m HEAD@{8}: reset: moving to origin/main
+[33m9b8f194[m HEAD@{9}: checkout: moving from master to main
+[33m05ffa29[m HEAD@{10}: checkout: moving from master to master
+[33m05ffa29[m HEAD@{11}: checkout: moving from main to master
+[33m9b8f194[m HEAD@{12}: commit: Course Completed
+[33m546a0f4[m HEAD@{13}: commit: main commit
+[33m05ffa29[m HEAD@{14}: checkout: moving from master to main
+[33m05ffa29[m HEAD@{15}: pull origin master: Fast-forward
+[33mf3cadc6[m HEAD@{16}: commit: Today's learning about controus,color spaces , color channels,and blurring techniques
+[33m7e13ef9[m HEAD@{17}: pull origin master: Fast-forward
+[33m102e085[m HEAD@{18}: commit: added a new file into the opencv course folder
+[33m2f5e8a0[m HEAD@{19}: commit (initial): Initial_commit
